@@ -29,7 +29,7 @@ This contract allows users to fund the contract with ETH, tracks contributors, a
 Clone the repo:
 
 ```bash
-git clone https://github.com/$(your-username)/foundry-fund-me.git
+git clone https://github.com/Chimajax/foundry-fund-me.git
 cd foundry-fund-me
 ````
 
